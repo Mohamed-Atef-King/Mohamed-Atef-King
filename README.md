@@ -1,4 +1,3 @@
-# Mohamed Atef Abdelhameed
 **Email:** mohamedseay8@gmail.com | **LinkedIn:** [mohamed-atef-abdelhameed](www.linkedin.com/in/mohamed-atef-abdelhameed) | **Phone:** 01002613439
 
 ---
