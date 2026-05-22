@@ -1,4 +1,6 @@
-**Email:** mohamedseay8@gmail.com | **LinkedIn:** [mohamed-atef-abdelhameed](www.linkedin.com/in/mohamed-atef-abdelhameed) | **Phone:** 01002613439
+**Email:** mohamedseay8@gmail.com 
+**LinkedIn:** [mohamed-atef-abdelhameed](www.linkedin.com/in/mohamed-atef-abdelhameed) 
+**Phone:** 01002613439
 
 ---
 
@@ -17,7 +19,7 @@ I build robust relational databases, write efficient Python automation scripts, 
 * **The Tech Stack:** MySQL Workbench, SQL (DDL, DML), Database Normalization.
 * **The Breakthrough:** Beyond just building the tables, I engineered over 20 complex analytical queries using multi-table `JOIN`s, nested subqueries, and aggregations. This allowed me to extract real-world business insights—such as calculating the average order value per city, identifying top-revenue categories, and finding customers who purchase above the average threshold.
 
-#### 2. Pro MP4 YouTube Downloader
+#### 2. MP4 YouTube Downloader
 * **The Hook:** A high-speed, multi-threaded desktop GUI application built in Python for seamless, high-definition video extraction.
 * **The Problem:** Standard downloaders frequently crash when parsing large playlists, fail on YouTube Shorts, or freeze the user interface while files are downloading.
 * **The Tech Stack:** Python, `yt_dlp`, `customtkinter`, `threading`.
